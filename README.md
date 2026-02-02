@@ -1,6 +1,6 @@
 # Classification d'images médicales par deep learning : Détection de carcinome canalaire infiltrant
 
-Ce projet a été réalisé dans le cadre du **Master 2 Mathématiques, Modélisation et apprentissage statistique (M2 MMAS)** de l'**Université Paris Cité**, pour le cours d'introduction au Deep Learning (Année 2025-2026).
+Ce projet a été réalisé dans le cadre du **Master 2 Mathématiques, Modélisation et apprentissage statistique (M2 MMAS)** de l'**Université Paris Cité**, pour le cours d'introduction au Deep Learning.
 
 ---
 
